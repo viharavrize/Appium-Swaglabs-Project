@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Appium Test Suite">
+    <test name="All Appium Tests">
+        <classes>
+            <class name="tests.LoginAddToCartTest"/>
+        </classes>
+    </test>
+</suite>
